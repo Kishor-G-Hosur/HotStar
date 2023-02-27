@@ -1,0 +1,22 @@
+.celebs{
+    background-color: rgb(3, 52, 82);
+    text-align: center;
+    padding: 40px 0px;
+}
+.celebs h1{
+    margin-top:0;
+    color: white;
+}
+.celebs_list{
+    background-color: rgb(0,32,87);
+    margin: 10px auto;
+    padding: 30px;
+    width: 800px;
+    /* display: flex; */
+}
+.celebs_list img{
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+    
+}

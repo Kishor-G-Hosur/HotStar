@@ -1,0 +1,24 @@
+.footer{
+    background-color: rgb(3, 3, 71);
+    padding: 20px 0px;
+    text-align: center;
+    margin-top:-30px ;
+}
+.footer_logo, .desc{
+    text-align: center;
+}
+.desc p{
+    color: gold;
+}
+.footer_links li{
+    color: aliceblue;
+    display: inline;
+    justify-content: center;
+    text-decoration: none;  
+ }
+.footer_links a{ 
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+ }

@@ -1,0 +1,60 @@
+{
+  "favourites": [
+    {
+      "title": "The Boys",
+      "genre": "action",
+      "lanaguage": "english",
+      "rating": 4,
+      "id": 1
+    },
+    {
+      "title": "Dark",
+      "genre": "sci-fi/mystery",
+      "lanaguage": "german",
+      "rating": 4.5,
+      "id": 2
+    },
+    {
+      "title": "The Family Man",
+      "genre": "Thriller",
+      "lanaguage": "hindi",
+      "rating": 4,
+      "id": 3
+    },
+    {
+      "title": "Malgudi Days",
+      "genre": "Philosophy",
+      "lanaguage": "hindi",
+      "rating": 4.8,
+      "id": 4
+    },
+    {
+      "title": "The office",
+      "genre": "sitchcom",
+      "lanaguage": "english",
+      "rating": 4.4,
+      "id": 5
+    },
+    {
+      "title": "coco",
+      "genre": "animated",
+      "language": "english",
+      "rating": "4.3",
+      "id": 6
+    },
+    {
+      "title": "lion king",
+      "genre": "animated",
+      "language": "english",
+      "rating": "4",
+      "id": 7
+    },
+    {
+      "title": "KGF",
+      "genre": "action",
+      "language": "Kannada",
+      "rating": "4.8",
+      "id": 8
+    }
+  ]
+}

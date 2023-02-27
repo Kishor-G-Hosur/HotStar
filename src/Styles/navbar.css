@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0px;
+    color: aliceblue;
+    background-color: rgb(1, 25, 35);
+}
+.nav_links li{
+    display: inline-block;
+    margin: 0px 10px;
+}
+.nav_links a{
+    color: white;
+    text-decoration: none;
+}
